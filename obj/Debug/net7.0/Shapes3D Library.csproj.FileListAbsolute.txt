@@ -1,0 +1,5 @@
+/Users/bbingham/Downloads/C#/Shapes3D Library/obj/Debug/net7.0/Shapes3D Library.csproj.AssemblyReference.cache
+/Users/bbingham/Downloads/C#/Shapes3D Library/obj/Debug/net7.0/Shapes3D Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bbingham/Downloads/C#/Shapes3D Library/obj/Debug/net7.0/Shapes3D Library.AssemblyInfoInputs.cache
+/Users/bbingham/Downloads/C#/Shapes3D Library/obj/Debug/net7.0/Shapes3D Library.AssemblyInfo.cs
+/Users/bbingham/Downloads/C#/Shapes3D Library/obj/Debug/net7.0/Shapes3D Library.csproj.CoreCompileInputs.cache
